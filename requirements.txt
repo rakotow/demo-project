@@ -1,2 +1,4 @@
 ipykernel
 python-dotenv
+py-clob-client>=0.17.0
+requests>=2.31.0
